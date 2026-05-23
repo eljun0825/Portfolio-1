@@ -11,6 +11,7 @@ Hello! My name is Eljun Puertos, and I am a student who is interested in the fie
 | Birthday | August, 25,2006 |
 | Contact No. | 09751810716 |
 | Gcash No. | 09751109820 |
+## Sana masendan 🫶
 
 
 ### Hobbies
