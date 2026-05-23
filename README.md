@@ -10,6 +10,11 @@ Hello! My name is Eljun Puertos, and I am a student who is interested in the fie
 | Contact No. | 09751810716 |
 | Nationality | Filipino |
 
+### Educational Background
++ School: Fullbright College
++ Course: Bachelor of Science in Electronics Engineering
++ Year Level: First Year
+
 ### Hobbies
 + Playing online games
 + Reading a book history
