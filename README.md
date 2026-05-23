@@ -5,4 +5,8 @@
 | Eljun | Puertos |
 |----------|----------|
 |          |          |
+###Favorites Foods
+-Hotdog
+-Adobo
+-Prito
 
