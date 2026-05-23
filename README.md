@@ -4,7 +4,7 @@
 *Eljun*
 | Eljun | Puertos |
 |----------|----------|
-|          |          |
+| birthday  | August, 25,2006 |
 ### Favorites Foods
 + Hotdog
 + Adobo
