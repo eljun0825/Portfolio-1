@@ -4,6 +4,7 @@ Hello! My name is Eljun Puertos, and I am a student who is interested in the fie
 ## Personal Information
 | Name | Eljun Puertos |
 |------|---------------|
+| Age | 19 |
 | Birthday | August, 25,2006 |
 | Address | Green Island, Tumarbong, Roxas, Palawan
 | Contact No. | 09751810716 |
