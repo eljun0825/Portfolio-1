@@ -22,5 +22,13 @@ Hello! My name is Eljun Puertos, and I am a student who is interested in the fie
 |------|---------------|
 | Birthday | August, 25,2006 |
 
+### Hobbies
++ Playing online games
++ Reading a book history
++ Eating
++ Listening to Music
++ Cooking
+
+
 
 
