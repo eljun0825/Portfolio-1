@@ -20,7 +20,7 @@ Hello! My name is Eljun Puertos, and I am a student who is interested in the fie
 ## Personal Information
 | Name | Eljun Puertos |
 |------|---------------|
-|      |               |
+| Birthday | August, 25,2006 |
 
 
 
