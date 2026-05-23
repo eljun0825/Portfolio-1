@@ -20,6 +20,7 @@ Hello! My name is Eljun Puertos, and I am a student who is interested in the fie
 + Eating
 + Listening to Music
 + Cooking
+> *"“Discipline is the key to success.”"*
 
 
 
