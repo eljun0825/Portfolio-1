@@ -1,15 +1,3 @@
-# Eljun Puertos
-## Eljun Puertos
-**Eljun**
-*Eljun*
-| Eljun | Puertos |
-|----------|----------|
-| birthday  | August, 25,2006 |
-### Favorites Foods
-+ Hotdog
-+ Adobo
-+ Prito
-
 <u> Eljun </u>
 
 > *"Eljun Puertos"*
@@ -21,6 +9,9 @@ Hello! My name is Eljun Puertos, and I am a student who is interested in the fie
 | Name | Eljun Puertos |
 |------|---------------|
 | Birthday | August, 25,2006 |
+| Contact No. | 09751810716 |
+| Gcash No. | 09751109820 |
+
 
 ### Hobbies
 + Playing online games
