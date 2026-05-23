@@ -5,6 +5,7 @@ Hello! My name is Eljun Puertos, and I am a student who is interested in the fie
 | Name | Eljun Puertos |
 |------|---------------|
 | Birthday | August, 25,2006 |
+| Address | Green Island, Tumarbong, Roxas, Pal
 | Contact No. | 09751810716 |
 | Gcash No. | 09751109820 |
 ## Sana masendan 🫶
