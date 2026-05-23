@@ -26,6 +26,9 @@ Hello! My name is Eljun Puertos, and I am a student who is interested in the fie
 + Eating
 + Listening to Music
 + Cooking
++ Exploring electronics projects
++ Watching technology videos
+
 > *"Success comes from hard work, patience, and continuous learning."*
 
 
