@@ -7,6 +7,6 @@
 |          |          |
 ###Favorites Foods
 - Hotdog
-- Adobo
-- Prito
++ Adobo
+* Prito
 
