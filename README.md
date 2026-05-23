@@ -15,6 +15,11 @@ Hello! My name is Eljun Puertos, and I am a student who is interested in the fie
 + Course: Bachelor of Science in Electronics Engineering
 + Year Level: First Year
 
+### Skills
++ Basic Electronics
++ Problem Solving
++ Teamwork and Communication 
+
 ### Hobbies
 + Playing online games
 + Reading a book history
